@@ -1,0 +1,8 @@
+TestCase 1 : Enter valid username and password.
+
+1. Enter a valid username,
+2.Enter a valid password,
+3. click sign in.
+
+Expected Result:
+    it should enter the inventory page
